@@ -56,14 +56,12 @@ Program Workflow:
 
 Structure Used:
 
-```c
 struct Student
 {
     int rollNo;
     char name[50];
     float marks;
 };
-```
 
 Functions Used:
 
