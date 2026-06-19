@@ -1,4 +1,4 @@
-# CodeAlpha_Student_Management_Syste
+# CodeAlpha_Student_Management_System
 
 #Task
 
